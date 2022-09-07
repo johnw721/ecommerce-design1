@@ -1,0 +1,13 @@
+nav{
+  background-color:grey;
+  padding-top: 0%;
+  margin-top: auto;
+  div {
+    display: flexbox;
+    justify-content: space-between;
+    a {
+      text-decoration: none;
+      padding-right: 15px;
+    }
+  }
+}
